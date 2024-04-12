@@ -88,7 +88,7 @@ def system_designer(systems,tech_stack):
     return answer
 
 
-if st.button("Optimize"):
+if st.button("Design"):
     solution = system_designer(system,tech)
     st.markdown(solution)
 
