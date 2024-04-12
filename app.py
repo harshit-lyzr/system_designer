@@ -31,7 +31,7 @@ image = Image.open("lyzr-logo.png")
 st.image(image, width=150)
 
 # App title and introduction
-st.title("Lyzr Lyzr System Designer")
+st.title("Lyzr System Designer👩🏼‍💻")
 st.markdown("### Welcome to the Lyzr System Designer!")
 st.markdown("Upload Your Code and Tech stack.This App generating you The System Designer!!!")
 
